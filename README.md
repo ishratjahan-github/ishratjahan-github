@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 This project is about Air ticket fare predection.
 The steps are 
-+Data Preprocessing 
++ Data Preprocessing 
 + Bi-variate Analysis
 + one hot Encoding 
 + Random Forest 
